@@ -20,3 +20,6 @@ Run program
 python3 main.py
 ```
 Left click the four corner points of the card to perform the transform.
+
+## Resources
+[Affine and Projective Transformations](https://www.graphicsmill.com/docs/gm5/Transformations.htm)
